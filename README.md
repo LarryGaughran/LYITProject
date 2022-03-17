@@ -7,4 +7,4 @@ The goal of this project is to build, train and test a machine learning model to
    
 
 I have been tasked with writing an Academic paper in IEEE format using the A4 template found here:  https://www.ieee.org/conferences/publishing/templates.html. The paper should be 8 pages in length including references and documented evidence of a practical element you have carried out. I am required to submit this paper to a relevant conference or journal as directed by my supervisor.
-IEEE referencing formats is required as per the paper template. Please use the appropriate referencing format for the paper template indicated in the relevant conference. 
+IEEE referencing formats is required as per the paper template. Please use the appropriate referencing format for the paper template indicated in the relevant conference.
